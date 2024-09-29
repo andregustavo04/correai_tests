@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Séries",
+    "symbol": "Séries"
+  },
+  {
+    "name": "Repetições",
+    "symbol": "Reps"
+  },
+  {
+    "name": "Voltas",
+    "symbol": "Voltas"
+  },
+  {
+    "name": "Quilômetros",
+    "symbol": "km"
+  },
+  {
+    "name": "Metros",
+    "symbol": "m"
+  },
+  {
+    "name": "Minutos",
+    "symbol": "min"
+  },
+  {
+    "name": "Horas",
+    "symbol": "h"
+  },
+  {
+    "name": "Segundos",
+    "symbol": "s"
+  },
+  {
+    "name": "Calorias",
+    "symbol": "kcal"
+  },
+  {
+    "name": "Passos",
+    "symbol": "Passos"
+  },
+  {
+    "name": "Batidas por minuto",
+    "symbol": "bpm"
+  },
+  {
+    "name": "Intervalos",
+    "symbol": "Int"
+  },
+  {
+    "name": "Circuitos",
+    "symbol": "Circ"
+  }
+]

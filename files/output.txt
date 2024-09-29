@@ -1,0 +1,28 @@
+O output esperado é um json da seguinte forma:
+
+{
+  "title": "str",
+  "description": "str",
+  "workouts": {
+    "workout_description": "Descrição do treino",
+    "date": "data do treino no formato ISO 8601",
+    "type_of_workout": "Corrida ou Musculação, escolher apenas um",
+    "type_running_workout": "Escolher entre: Fartlek, Intervalado, Longão, Regenerativo",
+    "workout_parts": [
+      {
+        "Aqueicmento": "exercícios de aquecimento",
+        "Parte principal": "exercícios da parte principal do treino",
+        "Desaquecimento": "exercícios para desaquecer o corpo"
+      },
+
+      {
+        "Aqueicmento": "exercícios de aquecimento",
+        "Parte principal": "exercícios da parte principal do treino",
+        "Desaquecimento": "exercícios para desaquecer o corpo"
+      }
+    ]
+  }
+}
+
+
+Responsa apenas o JSON e nada mais.

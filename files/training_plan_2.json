@@ -1,0 +1,205 @@
+{
+  "goal_id": 1,
+  "training_plan": {
+    "title": "Plano de treino personalizado para o André",
+    "description": "Plano de treino para correr 10km em 8 semanas, partindo do zero, e progredindo de forma gradual",
+    "start_date": "2024-08-28T15:30:00",
+    "end_date": "2024-12-31T15:30:00",
+    "is_base": false,
+    "user_id": 1,
+    "workouts": [
+      {
+        "title": "Treino 1: Início",
+        "goal": "Começar a correr",
+        "status_id": 1,
+        "is_base": false,
+        "is_test": false,
+        "date": "2024-08-28T15:30:00",
+        "workout_type_id": 1,
+        "running_workout_type_id": 1,
+        "workout_parts": [
+          {
+            "name": "Aquecimento",
+            "order_number": 1,
+            "exercises": [
+              {
+                "is_combination": false,
+                "exercise_structure": {
+                  "exercise_id": 1,
+                  "measure_unit_id": 1,
+                  "quantity": 5.0,
+                  "observations": "Caminhada leve",
+                  "order_number": 1
+                },
+                "combination_structure": null,
+                "order_number": 1
+              }
+            ]
+          },
+          {
+            "name": "Parte Principal",
+            "order_number": 2,
+            "exercises": [
+              {
+                "is_combination": true,
+                "exercise_structure": null,
+                "combination_structure": {
+                  "measure_unit_id": 2,
+                  "quantity": 10.0,
+                  "observations": "Circuito de corrida e caminhada",
+                  "exercise_structures": [
+                    {
+                      "workout_part_id": null,
+                      "exercise_id": 2,
+                      "measure_unit_id": 1,
+                      "quantity": 5.0,
+                      "observations": "Correr leve por 5 minutos",
+                      "order_number": 1
+                    },
+                    {
+                      "workout_part_id": null,
+                      "exercise_id": 3,
+                      "measure_unit_id": 1,
+                      "quantity": 3.0,
+                      "observations": "Caminhada rápida por 3 minutos",
+                      "order_number": 2
+                    }
+                  ]
+                },
+                "order_number": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Treino 2: Progressão",
+        "goal": "Aumentar a resistência",
+        "status_id": 2,
+        "is_base": false,
+        "is_test": false,
+        "date": "2024-09-04T15:30:00",
+        "workout_type_id": 2,
+        "running_workout_type_id": 2,
+        "workout_parts": [
+          {
+            "name": "Aquecimento",
+            "order_number": 1,
+            "exercises": [
+              {
+                "is_combination": false,
+                "exercise_structure": {
+                  "exercise_id": 4,
+                  "measure_unit_id": 1,
+                  "quantity": 10.0,
+                  "observations": "Caminhada moderada",
+                  "order_number": 1
+                },
+                "combination_structure": null,
+                "order_number": 1
+              }
+            ]
+          },
+          {
+            "name": "Parte Principal",
+            "order_number": 2,
+            "exercises": [
+              {
+                "is_combination": true,
+                "exercise_structure": null,
+                "combination_structure": {
+                  "measure_unit_id": 1,
+                  "quantity": 15.0,
+                  "observations": "Intervalo de corrida",
+                  "exercise_structures": [
+                    {
+                      "workout_part_id": null,
+                      "exercise_id": 5,
+                      "measure_unit_id": 1,
+                      "quantity": 5.0,
+                      "observations": "Correr em ritmo moderado por 5 minutos",
+                      "order_number": 1
+                    },
+                    {
+                      "workout_part_id": null,
+                      "exercise_id": 6,
+                      "measure_unit_id": 1,
+                      "quantity": 3.0,
+                      "observations": "Caminhada para recuperação por 3 minutos",
+                      "order_number": 2
+                    }
+                  ]
+                },
+                "order_number": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Treino 3: Teste de Velocidade",
+        "goal": "Melhorar velocidade",
+        "status_id": 3,
+        "is_base": false,
+        "is_test": true,
+        "date": "2024-09-11T15:30:00",
+        "workout_type_id": 1,
+        "running_workout_type_id": 3,
+        "workout_parts": [
+          {
+            "name": "Aquecimento",
+            "order_number": 1,
+            "exercises": [
+              {
+                "is_combination": false,
+                "exercise_structure": {
+                  "exercise_id": 7,
+                  "measure_unit_id": 1,
+                  "quantity": 10.0,
+                  "observations": "Trotes leves por 10 minutos",
+                  "order_number": 1
+                },
+                "combination_structure": null,
+                "order_number": 1
+              }
+            ]
+          },
+          {
+            "name": "Parte Principal",
+            "order_number": 2,
+            "exercises": [
+              {
+                "is_combination": true,
+                "exercise_structure": null,
+                "combination_structure": {
+                  "measure_unit_id": 2,
+                  "quantity": 20.0,
+                  "observations": "Circuito de velocidade",
+                  "exercise_structures": [
+                    {
+                      "workout_part_id": null,
+                      "exercise_id": 8,
+                      "measure_unit_id": 2,
+                      "quantity": 100.0,
+                      "observations": "Sprint de 100 metros",
+                      "order_number": 1
+                    },
+                    {
+                      "workout_part_id": null,
+                      "exercise_id": 9,
+                      "measure_unit_id": 1,
+                      "quantity": 5.0,
+                      "observations": "Caminhada de recuperação por 5 minutos",
+                      "order_number": 2
+                    }
+                  ]
+                },
+                "order_number": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

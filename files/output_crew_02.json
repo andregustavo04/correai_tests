@@ -1,0 +1,45 @@
+{
+  "title": "Treino Lindo",
+  "goal": "Começar",
+  "status_id": 1,
+  "is_base": false,
+  "is_test": false,
+  "date": "2024-08-28T15:30:00",
+  "workout_type_id": 1,
+  "running_workout_type_id": 2,
+  "workout_parts": [
+    {
+      "name": "Aquecimento",
+      "exercises": [
+        {
+          "is_combination": true,
+          "exercise_structure": null,
+          "combination_structure": {
+            "measure_unit_id": 2,
+            "quantity": 20.3,
+            "observations": "Nenhuma",
+            "exercise_structures": [
+              {
+                "workout_part_id": null,
+                "exercise_id": 1,
+                "measure_unit_id": 2,
+                "quantity": 20.4,
+                "observations": "Nenhuma",
+                "order_number": 1
+              },
+              {
+                "workout_part_id": null,
+                "exercise_id": 1,
+                "measure_unit_id": 2,
+                "quantity": 20.4,
+                "observations": "Nenhuma",
+                "order_number": 2
+              }
+            ]
+          },
+          "order_number": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "goal_id": 1,
+  "training_plan": {
+    "title": "Plano de treino personalizado para o André Gustavo Lopes",
+    "description": "Plano de treino para correr 10 km em 6 semanas, respeitando suas limitações físicas e histórico de lesões, e progredindo de forma gradual",
+    "start_date": "2024-08-27T20:00:00",
+    "end_date": "2024-10-08T20:00:00",
+    "is_base": false,
+    "user_id": 1,
+    "workouts": [
+      {
+        "title": "Treino 1: Início",
+        "goal": "Começar a correr",
+        "status_id": 1,
+        "is_base": false,
+        "is_test": false,
+        "date": "2024-08-27T20:00:00",
+        "workout_type_id": 1,
+        "running_workout_type_id": 1,
+        "workout_parts": [
+          {
+            "name": "Aquecimento",
+            "order_number": 1,
+            "exercises": [
+              {
+                "is_combination": false,
+                "exercise_structure": {
+                  "exercise_id": 1,
+                  "measure_unit_id": 1,
+                  "quantity": 5.0,
+                  "observations": "Caminhada Leve - Ideal para iniciantes ou recuperação ativa",
+                  "order_number": 1
+                },
+                "combination_structure": null,
+                "order_number": 1
+              }
+            ]
+          },
+          {
+            "name": "Parte Principal",
+            "order_number": 2,
+            "exercises": [
+              {
+                "is_combination": false,
+                "exercise_structure": {
+                  "exercise_id": 3,
+                  "measure_unit_id": 1,
+                  "quantity": 10.0,
+                  "observations": "Trote regenerativo - Recuperação ativa entre treinos intensos",
+                  "order_number": 1
+                },
+                "combination_structure": null,
+                "order_number": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Treino 2: Progressão",
+        "goal": "Aumentar a resistência",
+        "status_id": 2,
+        "is_base": false,
+        "is_test": false,
+        "date": "2024-09-03T20:00:00",
+        "workout_type_id": 2,
+        "running_workout_type_id": 2,
+        "workout_parts": [
+          {
+            "name": "Aquecimento",
+            "order_number": 1,
+            "exercises": [
+              {
+                "is_combination": false,
+                "exercise_structure": {
+                  "exercise_id": 4,
+                  "measure_unit_id": 1,
+                  "quantity": 10.0,
+                  "observations": "Caminhada Moderada - Aumenta o nível de atividade física sem sobrecarregar o corpo",
+                  "order_number": 1
+                },
+                "combination_structure": null,
+                "order_number": 1
+              }
+            ]
+          },
+          {
+            "name": "Parte Principal",
+            "order_number": 2,
+            "exercises": [
+              {
+                "is_combination": false,
+                "exercise_structure": {
+                  "exercise_id": 3,
+                  "measure_unit_id": 1,
+                  "quantity": 15.0,
+                  "observations": "Trote regenerativo - Recuperação ativa entre treinos intensos",
+                  "order_number": 1
+                },
+                "combination_structure": null,
+                "order_number": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Treino 3: Teste de Velocidade",
+        "goal": "Melhorar velocidade",
+        "status_id": 3,
+        "is_base": false,
+        "is_test": true,
+        "date": "2024-09-10T20:00:00",
+        "workout_type_id": 1,
+        "running_workout_type_id": 3,
+        "workout_parts": [
+          {
+            "name": "Aquecimento",
+            "order_number": 1,
+            "exercises": [
+              {
+                "is_combination": false,
+                "exercise_structure": {
+                  "exercise_id": 7,
+                  "measure_unit_id": 1,
+                  "quantity": 10.0,
+                  "observations": "Trotes leves por 10 minutos - Prepara para o teste de velocidade",
+                  "order_number": 1
+                },
+                "combination_structure": null,
+                "order_number": 1
+              }
+            ]
+          },
+          {
+            "name": "Parte Principal",
+            "order_number": 2,
+            "exercises": [
+              {
+                "is_combination": false,
+                "exercise_structure": {
+                  "exercise_id": 9,
+                  "measure_unit_id": 1,
+                  "quantity": 5.0,
+                  "observations": "Caminhada de recuperação por 5 minutos - Recuperação ativa pós sprint",
+                  "order_number": 1
+                },
+                "combination_structure": null,
+                "order_number": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

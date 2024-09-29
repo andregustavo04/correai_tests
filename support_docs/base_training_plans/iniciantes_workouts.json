@@ -1,0 +1,246 @@
+{
+  "treinos": [
+    {
+      "title": "Corrida Para Iniciantes",
+      "goal": "Começar a Correr",
+      "runner_level": "iniciante",
+      "workout_structure": {
+        "semanas": [
+          {
+            "semana": 1,
+            "treinos": [
+              {
+                "dia da semana": "segunda-feira",
+                "treino": "2 min caminhada + 1 min trote. Repetir 10 vezes"
+              },
+              {
+                "dia da semana": "quarta-feira",
+                "treino": "2 min caminhada + 1 min trote. Repetir 10 vezes"
+              },
+              {
+                "dia da semana": "sexta-feira",
+                "treino": "2 min caminhada + 1 min trote. Repetir 10 vezes"
+              }
+            ]
+          },
+          {
+            "semana": 2,
+            "treinos": [
+              {
+                "dia da semana": "segunda-feira",
+                "treino": "2 min trote + 1 min caminhada. Repetir 10 vezes"
+              },
+              {
+                "dia da semana": "quarta-feira",
+                "treino": "3 min trote + 1 min caminhada. Repetir 7 vezes"
+              },
+              {
+                "dia da semana": "sexta-feira",
+                "treino": "4 min trote + 1 min caminhada. Repetir 6 vezes"
+              }
+            ]
+          },
+          {
+            "semana": 3,
+            "treinos": [
+              {
+                "dia da semana": "segunda-feira",
+                "treino": "5 min trote + 1 min caminhada. Repetir 5 vezes"
+              },
+              {
+                "dia da semana": "quarta-feira",
+                "treino": "5 min trote + 1 min caminhada. Repetir 5 vezes"
+              },
+              {
+                "dia da semana": "sexta-feira",
+                "treino": "6 min trote + 1 min caminhada. Repetir 4 vezes"
+              }
+            ]
+          },
+          {
+            "semana": 4,
+            "treinos": [
+              {
+                "dia da semana": "segunda-feira",
+                "treino": "8 min trote + 1 min caminhada. Repetir 3 vezes"
+              },
+              {
+                "dia da semana": "quarta-feira",
+                "treino": "9 min trote + 1 min caminhada. Repetir 3 vezes"
+              },
+              {
+                "dia da semana": "sexta-feira",
+                "treino": "10 min trote + 1 min caminhada. Repetir 2 vezes"
+              }
+            ]
+          },
+          {
+            "semana": 5,
+            "treinos": [
+              {
+                "dia da semana": "segunda-feira",
+                "treino": "11 min trote + 1 min caminhada. Repetir 2 vezes"
+              },
+              {
+                "dia da semana": "quarta-feira",
+                "treino": "13 min trote + 1 min caminhada. Repetir 2 vezes"
+              },
+              {
+                "dia da semana": "sexta-feira",
+                "treino": "14 min trote + 1 min caminhada. Repetir 2 vezes"
+              }
+            ]
+          }
+        ]
+      },
+      "observations": "Treino indicado para iniciantes que estão começando a correr."
+    },
+
+    {
+      "title": "Corra 10km em 8 semanas",
+      "goal": "Preparar-se para correr 10km em 8 semanas, de maneira gradativa, sem se desgastar muito",
+      "runner_level": "iniciante",
+      "workout_structure": {
+        "semanas": [
+          {
+            "semana": 1,
+            "treinos": [
+              {
+                "dia da semana": "terça-feira",
+                "treino": "10 minutos de trote regenerativo (corrida lenta); (4x) 3 minutos de caminhada moderada, intercalada com 2 minutos de caminhada leve; 10 minutos de trote regenerativo (corrida lenta)"
+              },
+              {
+                "dia da semana": "quinta-feira",
+                "treino": "10 minutos de trote regenerativo (corrida lenta); (3x) 7 minutos de caminhada moderada, intercalada com 3 minutos de caminhada leve; 10 minutos de trote regenerativo (corrida lenta)"
+              },
+              {
+                "dia da semana": "sábado",
+                "treino": "10 minutos de trote regenerativo (corrida lenta); 30 minutos alternando caminhada leve e caminhada; 10 minutos de caminhada"
+              }
+            ]
+          },
+          {
+            "semana": 2,
+            "treinos": [
+              {
+                "dia da semana": "terça-feira",
+                "treino": "10 minutos de trote regenerativo (corrida lenta); (4x) 3 minutos de caminhada moderada, intercalada com 2 minutos andando; 10 minutos de trote regenerativo (corrida lenta)"
+              },
+              {
+                "dia da semana": "quinta-feira",
+                "treino": "10 minutos de trote regenerativo (corrida lenta); (4x) 7 minutos de caminhada moderada, intercalada com 3 minutos de caminhada leve; 10 minutos de trote regenerativo (corrida lenta)"
+              },
+              {
+                "dia da semana": "sábado",
+                "treino": "10 minutos de trote regenerativo (corrida lenta); (4x) 7 minutos de caminhada moderada, intercalada com 3 minutos de caminhada leve; 10 minutos de trote regenerativo (corrida lenta)"
+              }
+            ]
+          },
+          {
+            "semana": 3,
+            "treinos": [
+              {
+                "dia da semana": "terça-feira",
+                "treino": "10 minutos de trote regenerativo (corrida lenta); (4x) 5 minutos de caminhada moderada, intercalada com 2 minutos de caminhada leve; 10 minutos de trote regenerativo (corrida lenta)"
+              },
+              {
+                "dia da semana": "quinta-feira",
+                "treino": "10 minutos de trote regenerativo (corrida lenta); (4x) 8 minutos de corrida leve, intercalada com 3 minutos de caminhada leve; 10 minutos de trote regenerativo (corrida lenta)"
+              },
+              {
+                "dia da semana": "sábado",
+                "treino": "10 minutos de trote regenerativo (corrida lenta); 40 minutos alternando corrida leve e caminhada; 10 minutos de caminhada"
+              }
+            ]
+          },
+          {
+            "semana": 4,
+            "treinos": [
+              {
+                "dia da semana": "terça-feira",
+                "treino": "10 minutos de trote regenerativo (corrida lenta); (3x) 5 minutos de corrida moderada, intercalada com 2 minutos andando; 10 minutos de trote regenerativo (corrida lenta)"
+              },
+              {
+                "dia da semana": "quinta-feira",
+                "treino": "10 minutos de trote regenerativo (corrida lenta); (3x) 10 minutos de corrida leve, intercalada com 3 minutos andando; 10 minutos de trote regenerativo (corrida lenta)"
+              },
+              {
+                "dia da semana": "sábado",
+                "treino": "10 minutos de trote regenerativo (corrida lenta); (2x) 25 minutos de corrida leve, intercalada com 3 minutos caminhada"
+              }
+            ]
+          },
+          {
+            "semana": 5,
+            "treinos": [
+              {
+                "dia da semana": "terça-feira",
+                "treino": "10 minutos de trote regenerativo (corrida lenta); (3x) 10 minutos de caminhada moderada, intercalada com 2 minutos de caminhada leve; 10 minutos de trote regenerativo (corrida lenta)"
+              },
+              {
+                "dia da semana": "quinta-feira",
+                "treino": "10 minutos de trote regenerativo (corrida lenta); (3x) 10 minutos de corrida leve, intercalada com 3 minutos de caminhada leve; 10 minutos de trote regenerativo (corrida lenta)"
+              },
+              {
+                "dia da semana": "sábado",
+                "treino": "(2x) 30 minutos corrida leve, intercalada com 3 minutos de caminhada"
+              }
+            ]
+          },
+          {
+            "semana": 6,
+            "treinos": [
+              {
+                "dia da semana": "terça-feira",
+                "treino": "10 minutos de trote regenerativo (corrida lenta); (3x) 10 minutos de corrida moderada, intercalada com 2 minutos andando; 10 minutos de trote regenerativo (corrida lenta)"
+              },
+              {
+                "dia da semana": "quinta-feira",
+                "treino": "10 minutos de trote regenerativo (corrida lenta); (2x) 12 minutos de corrida leve, intercalada com 2 minutos andando"
+              },
+              {
+                "dia da semana": "sábado",
+                "treino": "(2x) 30 minutos de corrida leve, intercalada com 3 minutos caminhada"
+              }
+            ]
+          },
+          {
+            "semana": 7,
+            "treinos": [
+              {
+                "dia da semana": "terça-feira",
+                "treino": "10 minutos de trote regenerativo (corrida lenta); (4x) 10 minutos de caminhada moderada, intercalada com 2 minutos de caminhada leve; 10 minutos de trote regenerativo (corrida lenta)"
+              },
+              {
+                "dia da semana": "quinta-feira",
+                "treino": "10 minutos de trote regenerativo (corrida lenta); (2x) 12 minutos de corrida moderada, intercalada com 2 minutos de corrida leve"
+              },
+              {
+                "dia da semana": "sábado",
+                "treino": "50 minutos de corrida leve"
+              }
+            ]
+          },
+          {
+            "semana": 8,
+            "treinos": [
+              {
+                "dia da semana": "terça-feira",
+                "treino": "10 minutos de trote regenerativo (corrida lenta); (5x) 3 minutos de corrida moderada, intercalada com 2 minutos andando; 10 minutos de trote regenerativo (corrida lenta)"
+              },
+              {
+                "dia da semana": "quinta-feira",
+                "treino": "30 a 40 minutos de corrida leve"
+              },
+              {
+                "dia da semana": "sábado",
+                "treino": "prova de 10km"
+              }
+            ]
+          }
+        ]
+      },
+      "observations": "Treino gradual para iniciantes visando correr 10km ao final de 8 semanas."
+    }
+  ]
+}

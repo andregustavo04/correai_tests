@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "Caminhada Leve",
+    "definition": "Exercício de caminhada em ritmo lento, ideal para iniciantes ou para recuperação ativa.",
+    "benefits": "Melhora a circulação sanguínea, promove a recuperação ativa, reduz o estresse e melhora o condicionamento cardiovascular leve.",
+    "limitations": "Pode ser insuficiente para treinos mais avançados ou para objetivos de alta performance.",
+    "recommendations": "Recomendada para iniciantes, idosos ou como aquecimento antes de exercícios mais intensos.",
+    "has_equipment": false
+  },
+  {
+    "id": 5,
+    "name": "CA – Caminhada",
+    "definition": "Caminhada de baixa intensidade usada como parte de um programa de corrida estruturado.",
+    "benefits": "Promove a recuperação ativa, melhora a resistência e é ideal para aquecimento ou resfriamento.",
+    "limitations": "Pode não fornecer intensidade suficiente para benefícios significativos de resistência.",
+    "recommendations": "Usada em treinos intervalados para recuperação ou como início de treino para iniciantes.",
+    "has_equipment": false
+  },
+  {
+    "id": 2,
+    "name": "Caminhada Moderada",
+    "definition": "Exercício de caminhada em ritmo moderado, indicado para aumentar o nível de atividade física sem sobrecarregar o corpo.",
+    "benefits": "Melhora o condicionamento cardiovascular, ajuda na queima de calorias e melhora a resistência.",
+    "limitations": "Pode não ser desafiador o suficiente para indivíduos em boa forma física ou atletas avançados.",
+    "recommendations": "Ideal para indivíduos que desejam melhorar a saúde geral e aumentar a atividade física diária.",
+    "has_equipment": false
+  },
+  {
+    "id": 3,
+    "name": "Trote regenerativo",
+    "definition": "Corrida leve em ritmo de trote, usada principalmente para recuperação ativa entre treinos mais intensos.",
+    "benefits": "Ajuda na recuperação muscular, melhora a resistência e a saúde cardiovascular sem sobrecarregar o corpo.",
+    "limitations": "Pode não ser desafiador o suficiente para treinos de alta intensidade ou ganhos significativos de força.",
+    "recommendations": "Recomendado para corredores após treinos intensos ou competições para promover a recuperação.",
+    "has_equipment": false
+  },
+  {
+    "id": 4,
+    "name": "Trote",
+    "definition": "Corrida em ritmo moderado, mais rápida que uma caminhada, mas menos intensa que uma corrida completa.",
+    "benefits": "Melhora a saúde cardiovascular, queima calorias e aumenta a resistência aeróbica.",
+    "limitations": "Pode não ser adequado para indivíduos com problemas nas articulações ou iniciantes sem condicionamento.",
+    "recommendations": "Bom para iniciantes que estão fazendo a transição da caminhada para a corrida.",
+    "has_equipment": false
+  },
+  {
+    "id": 6,
+    "name": "Corrida ML – Muito Leve (até 65% da FCM)",
+    "definition": "Corrida leve mantida a uma intensidade de até 65% da frequência cardíaca máxima (FCM).",
+    "benefits": "Melhora a saúde cardiovascular, queima calorias e prepara o corpo para treinos mais intensos.",
+    "limitations": "Pode ser insuficiente para atletas avançados em busca de alta performance.",
+    "recommendations": "Ideal para aquecimento ou iniciantes que estão desenvolvendo a resistência cardiovascular.",
+    "has_equipment": false
+  },
+  {
+    "id": 7,
+    "name": "Corrida LE – Corrida leve (de 65% a 75% da FCM)",
+    "definition": "Corrida em intensidade leve, mantendo a frequência cardíaca entre 65% e 75% da FCM.",
+    "benefits": "Melhora a resistência aeróbica, queima calorias e fortalece o sistema cardiovascular.",
+    "limitations": "Pode não fornecer intensidade suficiente para benefícios máximos de resistência para corredores avançados.",
+    "recommendations": "Ideal para treinos longos e de recuperação, ajudando a construir a base aeróbica.",
+    "has_equipment": false
+  },
+  {
+    "id": 8,
+    "name": "Corrida MO – Corrida moderada (de 76% a 85% da FCM)",
+    "definition": "Corrida em intensidade moderada, mantendo a frequência cardíaca entre 76% e 85% da FCM.",
+    "benefits": "Aumenta a resistência aeróbica e anaeróbica, queima calorias de maneira mais eficiente.",
+    "limitations": "Pode ser desafiador para iniciantes ou indivíduos com baixa resistência cardiovascular.",
+    "recommendations": "Usada para aumentar a resistência e melhorar a capacidade de manter um ritmo de corrida por longos períodos.",
+    "has_equipment": false
+  },
+  {
+    "id": 9,
+    "name": "Corrida FO – Corrida forte (de 85% a 90% da FCM)",
+    "definition": "Corrida em alta intensidade, mantendo a frequência cardíaca entre 85% e 90% da FCM.",
+    "benefits": "Melhora a velocidade e a capacidade anaeróbica, aumenta a queima de calorias e fortalece o coração.",
+    "limitations": "Pode ser muito intenso para iniciantes ou indivíduos com problemas cardíacos.",
+    "recommendations": "Recomendada para corredores experientes que buscam melhorar o desempenho em provas curtas.",
+    "has_equipment": false
+  },
+  {
+    "id": 10,
+    "name": "Corrida MF – Muito forte (acima de 91% da FCM)",
+    "definition": "Corrida de alta intensidade, mantendo a frequência cardíaca acima de 91% da FCM.",
+    "benefits": "Melhora significativamente a velocidade, a força e a resistência anaeróbica.",
+    "limitations": "Pode ser perigoso para indivíduos com problemas de saúde ou iniciantes, alto risco de lesões.",
+    "recommendations": "Usada principalmente em treinos de alta intensidade para corredores avançados.",
+    "has_equipment": false
+  },
+  {
+    "id": 11,
+    "name": "TR – Tempo Run",
+    "definition": "Corrida realizada em um ritmo sustentável, mas desafiador, geralmente entre 80% e 90% da FCM.",
+    "benefits": "Melhora o limiar de lactato, aumenta a resistência e prepara para provas de média distância.",
+    "limitations": "Pode ser cansativo e difícil de manter para corredores menos experientes.",
+    "recommendations": "Recomendada para melhorar a capacidade de sustentar um ritmo rápido por longos períodos.",
+    "has_equipment": false
+  },
+  {
+    "id": 12,
+    "name": "PRO – Ritmo progressivo",
+    "definition": "Corrida que começa em um ritmo leve e gradualmente aumenta para um ritmo forte.",
+    "benefits": "Treina o corpo para se adaptar a diferentes intensidades, melhora a resistência e a força mental.",
+    "limitations": "Exige boa capacidade de autocontrole e percepção de esforço; pode ser difícil para iniciantes.",
+    "recommendations": "Ideal para treinos que simulam as condições de uma corrida de prova, especialmente para corredores de longa distância.",
+    "has_equipment": false
+  },
+  {
+    "id": 13,
+    "name": "ROP – Ritmo objetivo de prova",
+    "definition": "Treino realizado no ritmo desejado para a prova alvo, visando otimizar a performance para competições.",
+    "benefits": "Aumenta a confiança e a eficiência no ritmo de corrida de prova.",
+    "limitations": "Pode ser desgastante se feito com muita frequência ou sem descanso adequado.",
+    "recommendations": "Usado em fases específicas do treinamento para preparar para competições.",
+    "has_equipment": false
+  },
+  {
+    "id": 14,
+    "name": "Descanso",
+    "definition": "Período de recuperação sem atividades físicas para permitir que o corpo se recupere dos treinos.",
+    "benefits": "Permite a recuperação muscular, evita o overtraining e reduz o risco de lesões.",
+    "limitations": "Excesso de descanso pode levar a uma perda de condicionamento físico.",
+    "recommendations": "Essencial para qualquer programa de treino equilibrado; recomenda-se incluir dias de descanso regularmente.",
+    "has_equipment": false
+  }
+]
