@@ -1,5 +1,3 @@
----
-
 # AI Agents Test Repository
 
 Este é um repositório utilizado para realizar alguns testes relacionados a uma possível solução com **agentes de IA**.
@@ -28,5 +26,3 @@ Existem dois arquivos `main.py` no projeto:
 
 - **`main.py`**: Utilizado para testes com a **CREW AI**.
 - **`main_01.py`**: Utilizado para testes com fluxos mais controlados, com o uso de IA apenas em poucos pontos.
-
----
